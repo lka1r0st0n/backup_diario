@@ -25,8 +25,8 @@ Um script simples, robusto e personalizável em **Bash** para automatizar o back
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/lka1r0st0n/backup_diario
+cd backup_diario
 ```
 
 ### 2️⃣ Configure o script
